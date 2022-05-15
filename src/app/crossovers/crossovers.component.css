@@ -1,8 +1,9 @@
-
+@import url('http://fonts.cdnfonts.com/css/wigglye');
+@import url('http://fonts.cdnfonts.com/css/kg-corner-of-the-sky');
 #Encabezado {
     font-family: 'Wigglye', sans-serif;
     font-size: 75px;
-    src:  url('https://fonts.cdnfonts.com/s/51307/WigglyeRegular-w1yx9.woff') format('woff');
+    
    
 }
 
@@ -10,12 +11,12 @@
     font-family: 'KG Corner of the Sky', sans-serif;                                            
     font-size: 15px;
     text-align: justify;
-    src:  url('https://fonts.cdnfonts.com/s/48444/KGCorneroftheSky.woff') format('woff');  
+ 
 }
 
 #txt1{
     font-family: 'KG Corner of the Sky', sans-serif;                                            
     font-size: 15px;
     text-align: justify;
-    src: url('https://fonts.cdnfonts.com/s/48444/KGCorneroftheSky.woff') format('woff');     
+   
 }
