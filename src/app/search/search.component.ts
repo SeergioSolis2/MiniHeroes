@@ -52,7 +52,7 @@ export class SearchComponent implements OnInit {
               
             })
            
-            setTimeout( function() {  window.location.href = "MiniHeroes/heroes"; }, 3000 )
+            setTimeout( function() {  window.location.href = "/heroes"; }, 3000 )
           }
 
 
