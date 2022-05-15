@@ -3,12 +3,13 @@ h1 {
     font-family: 'Wigglye', sans-serif;
     font-size: 50px;
     text-align: center;
-    src: local('Wigglye'), url('https://fonts.cdnfonts.com/s/51307/WigglyeRegular-w1yx9.woff') format('woff');
+    src: url('https://fonts.cdnfonts.com/s/51307/WigglyeRegular-w1yx9.woff') format('woff');
 }
 p{
     font-family: 'KG Corner of the Sky', sans-serif;                                            
     font-size: 15px;
     text-align: justify;
+    src:  url('https://fonts.cdnfonts.com/s/48444/KGCorneroftheSky.woff') format('woff');
 }
 
 .jumbotron{
@@ -21,13 +22,14 @@ label{
     font-family: 'KG Corner of the Sky', sans-serif;                                            
     font-size: 15px;
     text-align: justify;
-    src: local('KG Corner of the Sky'), url('https://fonts.cdnfonts.com/s/48444/KGCorneroftheSky.woff') format('woff');
+    src:  url('https://fonts.cdnfonts.com/s/48444/KGCorneroftheSky.woff') format('woff');
 }
 
 input{
     font-family: 'KG Corner of the Sky', sans-serif;                                            
     font-size: 15px;
     text-align: justify;
+    src:  url('https://fonts.cdnfonts.com/s/48444/KGCorneroftheSky.woff') format('woff');
 }
 
 select{
